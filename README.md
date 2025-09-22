@@ -1,5 +1,4 @@
 # Text-cleaner
-# 🧹 Text Cleaner (Python Project)
 
 ## 📌 Overview
 This is a simple Python project that **cleans up messy text** by removing special characters, numbers, and extra spaces. It also converts the text to lowercase for consistency.  
